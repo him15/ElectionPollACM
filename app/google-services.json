@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254631816037",
+    "firebase_url": "https://electionpollacm.firebaseio.com",
+    "project_id": "electionpollacm",
+    "storage_bucket": "electionpollacm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254631816037:android:f35f64c5aa735172b1cf8c",
+        "android_client_info": {
+          "package_name": "com.berrycent.electionpollacm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254631816037-a72aci2fta5m96qip4gmjjueav1ofr9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berrycent.electionpollacm",
+            "certificate_hash": "365d888406a17cac95e2594d0720dcf5d6dad2fe"
+          }
+        },
+        {
+          "client_id": "254631816037-co23pmnqerfmrroqgb3k5t8unt5nnp4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Km5PEHC9JO9dmkJLEGzJvrjLwepCK_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254631816037-co23pmnqerfmrroqgb3k5t8unt5nnp4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
